@@ -16,7 +16,7 @@ Setup
 
 Backend
 Copy# Create MySQL database named ecommerce_db
-# Update application.properties with your DB credentials
+Update application.properties with your DB credentials
 ./mvnw spring-boot:run
 
 Frontend
